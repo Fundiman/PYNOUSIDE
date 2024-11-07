@@ -15,20 +15,6 @@ PynousIDE, crafted by [Fundiman](https://github.com/Fundiman), combines essentia
 - **Customizable Themes**: Switch between dark and light modes, or create custom themes to match your personal coding
 - **Git Integration**: Seamlessly manage your code versioning and collaborate directly from within the IDE.
 
-## Getting Started
-
-To start using PynousIDE, follow these steps:
-
-1. **Download files from our site**:
-
-2. **Install Dependencies**:
-
-   ```pip3 install -r requirements.txt```
-
-3. **Launch PynousIDE**:
-
-   ```python3 main.py```
-
 ## Roadmap
 
 PynousIDE is actively developed with plans for more features.
