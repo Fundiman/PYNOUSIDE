@@ -9,17 +9,11 @@ PynousIDE, crafted by [Fundiman](https://github.com/Fundiman), combines essentia
 ## Key Features
 
 - **Advanced Code Editor**: Smart syntax highlighting, autocompletion, and code folding for a smooth coding experience.
-- **Multi-Language Support**: Supports a wide range of programming languages including Python, JavaScript, HTML/CSS, C++, and more.
 - **Built-in Terminal**: Directly access a terminal within the IDE for quick command execution without switching windows.
 - **Debugging Tools**: Integrated debugging support with breakpoints, watch expressions, and stack trace visibility to make error tracking easy.
 - **Project Management**: Organize, browse, and manage multiple projects simultaneously.
-- **Customizable Themes**: Switch between dark and light modes, or create custom themes to match your personal coding style.
-- **Extensions Support**: Enhance PynousIDE with plugins and extensions that provide additional functionality.
+- **Customizable Themes**: Switch between dark and light modes, or create custom themes to match your personal coding
 - **Git Integration**: Seamlessly manage your code versioning and collaborate directly from within the IDE.
-- **Real-time Collaboration**: Work with other developers in real time, perfect for pair programming and teamwork.
-- **Code Suggestions**: Code recommendations and error suggestions.
-- **Enhanced Extension Store**: Curated extensions to add new features and enhance the IDE.
-- **Advanced Theme Customization**: Further customization for a more personalized experience.
 
 ## Getting Started
 
