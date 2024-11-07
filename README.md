@@ -19,10 +19,7 @@ PynousIDE, crafted by [Fundiman](https://github.com/Fundiman), combines essentia
 
 To start using PynousIDE, follow these steps:
 
-1. **Clone the Repository**:
-
-   ```git clone https://github.com/Fundiman/PynousIDE.git```
-   ```cd PynousIDE```
+1. **Download files from our site**:
 
 2. **Install Dependencies**:
 
